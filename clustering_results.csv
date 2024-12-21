@@ -1,0 +1,37 @@
+Clusters,Preprocessing,Algorithm,Silhouette Score,Calinski-Harabasz,Davies-Bouldin
+3,No Preprocessing,K-Means,0.55,561.59,0.67
+3,No Preprocessing,Hierarchical,0.55,558.06,0.66
+3,No Preprocessing,Mean-Shift,0.69,509.7,0.39
+3,Normalization,K-Means,0.48,157.36,0.79
+3,Normalization,Hierarchical,0.45,222.72,0.8
+3,Normalization,Mean-Shift,0.58,251.35,0.59
+3,PCA,K-Means,0.6,693.71,0.56
+3,PCA,Hierarchical,0.6,688.62,0.56
+3,PCA,Mean-Shift,0.71,565.73,0.36
+3,Normalization + PCA,K-Means,0.52,180.98,0.74
+3,Normalization + PCA,Hierarchical,0.51,286.33,0.71
+3,Normalization + PCA,Mean-Shift,0.61,283.01,0.54
+4,No Preprocessing,K-Means,0.5,529.53,0.75
+4,No Preprocessing,Hierarchical,0.49,515.08,0.8
+4,No Preprocessing,Mean-Shift,0.69,509.7,0.39
+4,Normalization,K-Means,0.39,206.68,0.87
+4,Normalization,Hierarchical,0.4,201.25,0.98
+4,Normalization,Mean-Shift,0.58,251.35,0.59
+4,PCA,K-Means,0.56,719.12,0.62
+4,PCA,Hierarchical,0.54,673.95,0.65
+4,PCA,Mean-Shift,0.71,565.73,0.36
+4,Normalization + PCA,K-Means,0.45,263.88,0.74
+4,Normalization + PCA,Hierarchical,0.45,254.09,0.72
+4,Normalization + PCA,Mean-Shift,0.61,283.01,0.54
+5,No Preprocessing,K-Means,0.49,495.24,0.82
+5,No Preprocessing,Hierarchical,0.48,488.48,0.82
+5,No Preprocessing,Mean-Shift,0.69,509.7,0.39
+5,Normalization,K-Means,0.35,202.64,0.94
+5,Normalization,Hierarchical,0.33,192.68,0.97
+5,Normalization,Mean-Shift,0.58,251.35,0.59
+5,PCA,K-Means,0.51,642.06,0.75
+5,PCA,Hierarchical,0.55,665.88,0.65
+5,PCA,Mean-Shift,0.71,565.73,0.36
+5,Normalization + PCA,K-Means,0.41,278.45,0.78
+5,Normalization + PCA,Hierarchical,0.4,255.0,0.79
+5,Normalization + PCA,Mean-Shift,0.61,283.01,0.54
